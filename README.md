@@ -1,5 +1,3 @@
-README.md
-
 0x11. C - printf team project
 
 Group Project:                                                                      
@@ -27,8 +25,8 @@ Handle the following custom conversion specifier:
                                                                                     
 6. How is the world ruled and led to war? Diplomats lie to journalists and believe t
 hese lies when they see them in print                                               
-Handle the following conversion specifier: p.                                       
-                                                                                    
+Handle the following conversion specifier: p.
+
 7. The big print gives and the small print takes away                               
 Handle the following flag characters for non-custom conversion specifiers:          
                                                                                     
